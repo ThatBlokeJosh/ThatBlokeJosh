@@ -35,6 +35,7 @@
 - **Languages**:
 	
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Kotlin](https://img.shields.io/badge/-Kotlin-%23C22947.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 <br>   
     
 - **Front-End Development**:
