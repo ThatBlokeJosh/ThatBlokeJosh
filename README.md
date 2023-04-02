@@ -44,7 +44,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![Flask](https://img.shields.io/badge/-flask-%23009788.svg?style=for-the-badge&logo=flask&logoColor=black)
-
+   ![SvelteKit](https://img.shields.io/badge/-SvelteKit-%23F73C00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 <br>
 
 - **Softwares and Tools**:
