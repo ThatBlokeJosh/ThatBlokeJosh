@@ -20,7 +20,7 @@
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
-- Personal website [link](https://thatblokejosh.vercel.app/)
+- Personal website [link](https://www.thatblokejosh.vercel.app)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 <br><br>
@@ -35,8 +35,6 @@
 - **Languages**:
 	
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![C#](https://img.shields.io/badge/C#%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Kotlin](https://img.shields.io/badge/Kotlin%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br>   
     
 - **Front-End Development**:
