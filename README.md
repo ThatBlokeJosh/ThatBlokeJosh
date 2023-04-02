@@ -70,7 +70,7 @@
 <br>
 
 
-## <img src="" width="35"><b> Github Stats </b>
+## <b> Github Stats </b>
 <br>
 
 <div align="center">
