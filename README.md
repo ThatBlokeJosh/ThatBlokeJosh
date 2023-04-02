@@ -18,7 +18,7 @@
 - Learning about machine learning in my spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.thatblokejosh.vercel.app)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/joshua_remington)
 
 <br><br>
 
