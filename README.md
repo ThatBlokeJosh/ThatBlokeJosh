@@ -104,7 +104,7 @@
 
 <li>
 <a href="mailto:joshtomrem@protonmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Protonmail:%20-%2316141C.svg?style=for-the-badge&logo=protonmail&logoColor=white%22%20style=%22margin-bottom:%205px" />
+<img src="https://img.shields.io/badge/Protonmail: joshtomrem@protonmail.com%20-%2316141C.svg?style=for-the-badge&logo=protonmail&logoColor=white%22%20style=%22margin-bottom:%205px" />
 </a>
 </li>
 	
