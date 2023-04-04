@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![ThatBlokeJosh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ThatBlokeJosh&show_icons=true&theme=dark#gh-dark-mode-only)]
+[![ThatBlokeJosh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ThatBlokeJosh&show_icons=true&theme=dark#gh-dark-mode-only)
 
 </div>
 
