@@ -34,6 +34,7 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/-Kotlin-%23C22947.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
     ![C#](https://img.shields.io/badge/-C%23-%236A1777.svg?style=for-the-badge&logo=csharp&logoColor=white)
+    ![GO](https://img.shields.io/badge/-go-blue.svg?style=for-the-badge&logo=go&logoColor=white)
 <br>   
     
 - **Web Development**:
